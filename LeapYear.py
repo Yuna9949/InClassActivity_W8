@@ -8,10 +8,10 @@ def leapyear(y):
             LYChk = True
     return LYChk
 
-y = int(input('Input year : '))
-if leapyear(y):
-    print(y, end='')
-    print(' is a leap year.')
-else :
-    print(y, end='')
-    print(' is not a leap year.')
+#y = int(input('Input year : '))
+#if leapyear(y):
+#    print(y, end='')
+#    print(' is a leap year.')
+#else :
+#    print(y, end='')
+#    print(' is not a leap year.')
